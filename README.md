@@ -2,6 +2,8 @@
  
 Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de exploits, projetos de aplicações Web, entre outros.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## Sobre mim:
 🎓 Cursando Defesa Cibernética na FIAP  
 💻 Red Team e estudando Blue Team

@@ -1,9 +1,3 @@
-# Olá! Meu nome é Luan e esse é o meu GitHub.
- 
-Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de exploits, projetos de aplicações Web, entre outros.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Defesa+Cibernética)](https://git.io/typing-svg)
-
 ## Sobre mim:
 - 🎓 Cursando Defesa Cibernética na FIAP
 - 💻 Red Team e estudando Blue Team

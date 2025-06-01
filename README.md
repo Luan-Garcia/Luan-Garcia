@@ -25,4 +25,4 @@ Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de expl
 
 ## 📬 Como me encontrar:
 - Email: contato.luangarcia@protonmail.com
-- LinkedIn: [linkedin](https://www.linkedin.com/in/luan-garcia-018661260)
+- Servidor Discord: [Illusion Society](https://discord.gg/V8H56EnPSc)

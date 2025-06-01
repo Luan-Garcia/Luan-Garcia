@@ -2,7 +2,7 @@
  
 Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de exploits, projetos de aplicações Web, entre outros.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Defesa+Cibernética+na+Fiap)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Defesa+Cibernética)](https://git.io/typing-svg)
 
 ## Sobre mim:
 🎓 Cursando Defesa Cibernética na FIAP  

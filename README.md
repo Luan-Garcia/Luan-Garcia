@@ -18,10 +18,10 @@ Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de expl
 ![Bash](https://img.shields.io/badge/-Bash%20Script-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🚧 Atualmente trabalhando em:
-- 🔍 Criação de um laboratório de vulnerabilidades
-- 🧪 Bug Hunter na intigriti
-- 🛡️ Pentester Autônomo
+## 🚧 Meus futuros projetos:
+- 🔍 Um laboratório de vulnerabilidades
+- 🧪 Desenvolvimento de Exploits
+- 🛡️ Um site focado em Roadmaps
 
 ## 📬 Como me encontrar:
 - Email: contato.luangarcia@protonmail.com

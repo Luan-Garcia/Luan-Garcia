@@ -1,8 +1,14 @@
 ## Sobre mim:
 - 🎓 Cursando Defesa Cibernética na FIAP
-- 💻 Red Team e estudando Blue Team
-- 🧠 Estudando Computação Quântica
+- 💻 Atuo como Pentester Autônomo
 - 📚 Escrevo artigos voltados para cibersegurança no Medium
+
+## 📖 Atualmente estudando:
+- 🔐 Segurança ofensiva e análise de malware
+- 🐧 Kernel Linux e exploit development
+- 🧬 Fundamentos de computação quântica
+- ☁️ Pentest em ambientes cloud (AWS e Azure)
+
 
 ## 🛠️ Tecnologias:  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)

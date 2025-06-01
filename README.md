@@ -5,10 +5,10 @@ Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de expl
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+Defesa+Cibernética)](https://git.io/typing-svg)
 
 ## Sobre mim:
-🎓 Cursando Defesa Cibernética na FIAP
-💻 Red Team e estudando Blue Team
-🧠 Estudando Computação Quântica
-📚 Escrevo artigos voltados para cibersegurança no Medium
+- 🎓 Cursando Defesa Cibernética na FIAP
+- 💻 Red Team e estudando Blue Team
+- 🧠 Estudando Computação Quântica
+- 📚 Escrevo artigos voltados para cibersegurança no Medium
 
 ## 🛠️ Tecnologias:  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)

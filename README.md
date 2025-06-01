@@ -26,3 +26,6 @@ Aqui você vai encontrar projetos sobre cibersegurança, desenvolvimento de expl
 ## 📬 Como me encontrar:
 - Email: contato.luangarcia@protonmail.com
 - Servidor Discord: [Illusion Society](https://discord.gg/V8H56EnPSc)
+
+![Luan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luan-Garcia&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Garcia&layout=compact&theme=radical)

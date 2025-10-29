@@ -1,9 +1,9 @@
 ### Olá, sou o Luan Garcia 👋
 
-Sou um profissional de Cibersegurança focado em Segurança Ofensiva. Meu trabalho é encontrar vulnerabilidades antes que os criminosos o façam.
+Sou um profissional de Cibersegurança focado em Segurança Ofensiva. Meu trabalho é encontrar vulnerabilidades antes que os criminosos o façam. 
 
 * **Título Profissional:** `Pentester & Red Teamer | Security Researcher | Desenvolvedor`
-* [cite_start]**Status Atual:** Cursando Defesa Cibernética na FIAP [cite: 195, 196] [cite_start]e atuando como Consultor Autônomo (Freelance). [cite: 186, 187]
+* **Status Atual:** Cursando Defesa Cibernética na FIAP e atuando como Consultor Autônomo (Freelance). 
 
 ---
 
@@ -39,10 +39,9 @@ Não me responsabilizo pelo mau uso de qualquer informação aqui contida. O uso
 
 ### 📬 Como me encontrar
 
-* [cite_start]**LinkedIn:** `www.linkedin.com/in/luan-garcia-rc` [cite: 168]
-* **Medium:** [Coloque o link do seu Medium aqui, já que você escreve artigos]
-* [cite_start]**Email:** `contato.luangarcia@protonmail.com` [cite: 167]
-* **Servidor Discord:** [Illusion Society](https://discord.gg/V8H56EnPSc)
+* **LinkedIn:** `www.linkedin.com/in/luan-garcia-rc` 
+* **Medium:** https://medium.com/@luangarciarc
+* **Email:** `contato.luangarcia@protonmail.com` 
 
 ---
 
